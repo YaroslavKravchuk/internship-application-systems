@@ -1,3 +1,9 @@
+/*
+
+Ping application created by Yaroslav Kravchuk
+4/15/20
+
+*/
 package main
 import (
   "flag"
