@@ -5,14 +5,14 @@
 ```
 go build Yping.go
 ```
-# Input an address:
+### Input an address:
 ```
 sudo ./Yping www.google.com
 ```
 
-# or input an IP address:
+### or input an IP address:
 ```
 sudo ./Yping 8.8.8.8
 ```
 
-# Currently supports Ipv4 only
+## Currently supports Ipv4 only
